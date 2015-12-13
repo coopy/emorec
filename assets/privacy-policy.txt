@@ -1,0 +1,5 @@
+Emotion Recognition is an application that takes a feed of images e.g. from Twitter, and posts back the image along with the machine recognized emotion as interpreted by the Microsoft Project Oxford Emotion Recognition API.
+
+Emotion Recognition does not store any data. Any image processed by Emotion Recognition is ephemerally passed through a server process, and then posted to Twitter. Once this process is complete, no image data remains on any server used by Emotion Recognition.
+
+The image, voice, video or text understanding capabilities of Emotion Recognition app use the Microsoft Project Oxford APIs. Microsoft will receive the images, audio, video, and other data that you upload (via this app) for service improvement purposes. To report abuse of the Project Oxford APIs to Microsoft, please visit the Microsoft Project Oxford website at www.projectoxford.ai, and use the “Report Abuse” link at the bottom of the page to contact Microsoft. For more information about Microsoft privacy policies please see their privacy statement here: http://go.microsoft.com/fwlink/?LinkId=521839.
